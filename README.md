@@ -1,5 +1,5 @@
 # talks-and-papers
-A list of talks and papers to check out. 
+A personal list of talks and papers to check out. 
 
 February 2016
 -------------
